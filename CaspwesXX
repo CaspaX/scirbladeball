@@ -1739,7 +1739,7 @@ end)
 	end  
 	
 	OrionLib:MakeNotification({
-		Name = "UI Library Upgrade",
+		Name = "simple ui? pasted😊",
 		Content = "Subscribe To Caspwa Fr",
 		Time = 5
 	})
